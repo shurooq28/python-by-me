@@ -1,0 +1,6 @@
+shurooq   - programming student
+pikachu   - frontend developer
+subzero   - backend developer
+eren      - business analyst
+alchemist - data analyst
+titan     - data engineer 
